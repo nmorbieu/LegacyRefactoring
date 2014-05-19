@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DojoRefactoring", "DojoRefactoring\DojoRefactoring.csproj", "{12677B3E-D515-4858-951B-7AB948DEF0A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeepCompatibility", "KeepCompatibility\KeepCompatibility.csproj", "{933810DE-235D-4950-B63F-F6BFAD7CD5D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12677B3E-D515-4858-951B-7AB948DEF0A9}.Debug|x86.ActiveCfg = Debug|x86
+		{12677B3E-D515-4858-951B-7AB948DEF0A9}.Debug|x86.Build.0 = Debug|x86
+		{12677B3E-D515-4858-951B-7AB948DEF0A9}.Release|x86.ActiveCfg = Release|x86
+		{12677B3E-D515-4858-951B-7AB948DEF0A9}.Release|x86.Build.0 = Release|x86
+		{933810DE-235D-4950-B63F-F6BFAD7CD5D0}.Debug|x86.ActiveCfg = Debug|x86
+		{933810DE-235D-4950-B63F-F6BFAD7CD5D0}.Debug|x86.Build.0 = Debug|x86
+		{933810DE-235D-4950-B63F-F6BFAD7CD5D0}.Release|x86.ActiveCfg = Release|x86
+		{933810DE-235D-4950-B63F-F6BFAD7CD5D0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
